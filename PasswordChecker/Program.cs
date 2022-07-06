@@ -1,4 +1,5 @@
-﻿using System;
+﻿// https://www.codecademy.com/courses/learn-c-sharp/projects/csharp-password-checker
+using System;
 using System.Text.RegularExpressions;
 
 namespace PasswordChecker
